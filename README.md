@@ -1,6 +1,3 @@
-🖖
+🤘
 
-I'm Luís, currently working on [AWS Game Tech](https://aws.amazon.com/gametech/) and learning [C++](https://github.com/isocpp).
-
-
-Live long and prosper.
+I'm Luís, currently doing [C++](https://github.com/isocpp) in [AWS Game Tech](https://aws.amazon.com/gametech/).
